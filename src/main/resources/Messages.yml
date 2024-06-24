@@ -1,0 +1,14 @@
+Commands:
+  No_Perms: "&cNo Permissions!"
+Storage:
+  MaxTier: "&cThis storage has reached the max tier!"
+  UpgradeSuccess: "&aUpgraded successfully your storage to tier {tier}"
+  UpgradeFail: "&cYou do not have enough money for this!"
+Transformer:
+  LinkAChest: "&bClick on a chest to link it to the transformer!"
+  LinkedChest: "&aSuccessfully Linked a chest!"
+  ChestAlreadyLinked: "&cThis Chest is already linked to a other transformer!"
+  LinkAStorage: "&bClick on a storage to link it to the transformer!"
+  LinkedStorage: "&aSuccessfully Linked a Storage!"
+  StorageAlreadyLinked: "&cThis Storage is already linked to a other transformer!"
+  SwitchSuccess: "&aSuccessfully switched transfers!"

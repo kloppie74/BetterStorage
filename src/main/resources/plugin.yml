@@ -1,0 +1,14 @@
+name: BetterStorage
+version: '${project.version}'
+main: org.kloppie74.betterstorage.BetterStorage
+api-version: '1.13'
+depend: [Vault]
+commands:
+  betterstorage:
+    description: Main BetterStorage command
+    usage: /betterstorage (SubCommand)
+    permission: betterstorage.commands
+    permission-message: No Permissions!
+    aliases:
+      - bs
+      - bstorage

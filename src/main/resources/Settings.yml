@@ -1,0 +1,14 @@
+#Plugin Settings
+#You can edit messages, upgrade prices & more to your own!
+#Restart your server to apply changes!
+System:
+  FileVersion: V1.1
+
+#Transformer block settings!
+TransFormer:
+  SecondsPerTransformerAction: 5
+  ItemsPerTransformerAction: 16
+#Storage block settings!
+Storage:
+  MaxTier: 100
+  UpgradeCosts: 100000
